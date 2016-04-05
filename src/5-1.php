@@ -1,0 +1,9 @@
+<?php
+
+if ($condition) {
+    //...
+} elseif ($another) {
+    //...
+} else {
+    //...
+}
